@@ -1,8 +1,8 @@
 # Homebrew cask for Basalt, generated per release by scripts/release.sh from
 # packaging/homebrew/basalt.rb.in in the (private) basalt repo. Don't edit it in the tap.
 cask "basalt" do
-  version "0.1.0-alpha.1"
-  sha256 "c254e1b265f032e43cd9fedda4c71d2321b94e0591b6c12650f4aa7185eed504"
+  version "0.1.0-alpha.2"
+  sha256 "288a4e307bdbfb536dab2f68f3ebaecb03305abc3428f5d6cddfb1595b2f059a"
 
   url "https://github.com/navalm/homebrew-tap/releases/download/v#{version}/Basalt-#{version}.dmg"
   name "Basalt"
